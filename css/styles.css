@@ -78,7 +78,7 @@
 
  .copyright {
    color: #EAF6F6;
-   font-size: o.5rem;
+   font-size: 0.6rem;
    padding: 20px 0;
  }
 
@@ -101,8 +101,8 @@
 
  .bottom-cloud {
    position: absolute;
-   left: 200px;
-   bottom: 150px;
+   left: 150px;
+   bottom: 200px;
  }
 
  .drug-image {
