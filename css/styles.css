@@ -78,7 +78,7 @@
 
  .copyright {
    color: #EAF6F6;
-   font-size: o.6rem;
+   font-size: o.5rem;
    padding: 20px 0;
  }
 
@@ -106,13 +106,13 @@
  }
 
  .drug-image {
-   width: 15%;
+   width: 25%;
    float: left;
    margin-right: 30px;
  }
 
  .code-image {
-   width: 15%;
+   width: 25%;
    float: right;
    margin-left: 30px;
  }
